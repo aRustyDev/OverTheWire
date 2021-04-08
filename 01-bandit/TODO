@@ -1,0 +1,11 @@
+* Complete Bandit 17-34
+    - Add bandit-xx-conn.sh
+    - Add soln-xx-xx.md
+
+* Write a single connect.sh script to replace all bandit-xx-conn.sh
+    - take xx as input
+* Write a flat file with all key/password/flags to work with the connect.sh script
+* Re-write the soln-xx-xx.md's in 3 levels
+    - just-answers : no explanation
+    - simple-explanation : assuming that the reader is already aware of alot of things
+    - ELI5 : assume the reader has 0 background, explain each step, provide pictures. 
