@@ -1,7 +1,3 @@
-* Complete Bandit 17-34
-    - Add bandit-xx-conn.sh
-    - Add soln-xx-xx.md
-
 * Add a /01-bandit/README.md that briefly specifies what each level contains.
 
 * Write a single connect.sh script to replace all bandit-xx-conn.sh
