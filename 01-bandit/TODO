@@ -1,16 +1,15 @@
-* Add a /01-bandit/README.md that briefly specifies what each level contains.
+* Add a /01-bandit/README.md :white_check_mark:
+    * Briefly describe what each level contains.
 
-* Write a single connect.sh script to replace all bandit-xx-conn.sh
-    - take xx as input
 * Write a flat file with all key/password/flags to work with the connect.sh script
+
 * Re-write the soln-xx-xx.md's in 3 levels
     - just-answers : no explanation
     - simple-explanation : assuming that the reader is already aware of alot of things
     - ELI5 : assume the reader has 0 background, explain each step, provide pictures. 
+
 * Create SymLinks to central Connection.sh Folder
 
-* Change the conn script to use external license files
-
-* Read license in from file
-
-* add option flags to connect script
+* Edit conn script
+    * Read license from external files
+    * add option flags to connect script
