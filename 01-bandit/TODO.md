@@ -6,8 +6,6 @@
     - simple-explanation : assuming that the reader is already aware of alot of things
     - ELI5 : assume the reader has 0 background, explain each step, provide pictures. 
 
-* Create SymLinks to central Connection.sh Folder
-
 * Edit conn script
     * add License Option - Sub Options
         1. license-short
