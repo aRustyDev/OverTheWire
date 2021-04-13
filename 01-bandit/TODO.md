@@ -1,7 +1,5 @@
-* Add a /01-bandit/README.md :white_check_mark:
+* 01-bandit/README.md 
     * Briefly describe what each level contains.
-
-* Write a flat file with all key/password/flags to work with the connect.sh script
 
 * Re-write the soln-xx-xx.md's in 3 levels
     - just-answers : no explanation
@@ -11,5 +9,5 @@
 * Create SymLinks to central Connection.sh Folder
 
 * Edit conn script
-    * Read license from external files
     * add option flags to connect script
+    * add exit flag for options (ie. `script.sh -h` would exit)

@@ -22,6 +22,35 @@ key_file=".ssh/.passwd"
 ################################################################################
 # Functions                                                                    #
 ################################################################################
+bandit_help()
+{
+   # Display Help
+   echo 
+   echo "Description: Open a SSH connection to 'bandit.labs.overthewire.org'"
+   echo
+   echo " Syntax: connect-to-bandit [-g|h|v|V] <Bandit Lvl>"
+   echo "Example: connect-to-bandit 0"
+   echo
+   echo "options:"
+   echo "  -h    Print this Help menu."
+   echo "  -g    Print the GPL license notification."
+   echo "  -f   Print the verbose GPL license notification."
+   # echo "  -w   Print the GPL license warranty section."
+   # echo "  -c   Print the GPL license conditions section."
+   # echo "  -w    Display 'What If?' for <Bandit Lvl>."
+   # echo "  -v    Print software version."
+   echo
+}
+
+license_full()
+{
+   # Verbose GPL license notification
+   while IFS=, read -r y
+   do
+   echo $y
+   done < $license_file
+}
+
 Connect()
 {
    clear
