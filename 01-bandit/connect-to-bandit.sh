@@ -32,13 +32,12 @@ Connect()
 
 ## Show Passwd & Paste to Clipboard
    echo "==Password Pasted to Clipboard=="
-   echo "Password: ${key}"
+   echo "   Password: ${key}"
    echo "${key}" | clip
    echo 
 
 #  Connect
    echo "==RUNNING CMD=="
-   echo "lvl-$lvl"
    ssh -F ./.ssh/config lvl-$lvl
    # echo "ssh -F ./.ssh/config lvl-$lvl"
 }
