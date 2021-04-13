@@ -51,7 +51,7 @@ license_full()
    done < $license_file
 }
 
-Connect()
+bandit_connect()
 {
    clear
 ## Looking Up Password
@@ -74,5 +74,27 @@ Connect()
 ################################################################################
 # Main program                                                                 #
 ################################################################################
-lvl=$(seq -f "%02g" $1 $1)
-Connect $1
+while true; do
+    case $1 in
+      -h) # display Help
+         bandit_help
+         exit;;
+      -g) # Display Short GPL license notification
+         license_short
+         exit;;
+      -gF) # Display Full GPL license notification
+         license_full
+         exit;;
+      *[0-9]*) #Run Script
+         lvl=$(seq -f "%02g" $1 $1)
+         bandit_connect $1
+         exit;;
+      -*)#Anything else 
+         echo "$0: Unrecognized option $1" >&2
+         bandit_help
+         exit 2;;
+      *) # Empty
+         bandit_help
+         break ;;
+    esac
+done
