@@ -9,10 +9,5 @@
 * Create SymLinks to central Connection.sh Folder
 
 * Edit conn script
-<<<<<<< HEAD:01-bandit/TODO.md
     * add option flags to connect script
     * add exit flag for options (ie. `script.sh -h` would exit)
-=======
-    * Read license from external files
-    * add option flags to connect script
->>>>>>> e066d73818bc79a40bad2522b0fe95dd331524af:01-bandit/TODO
