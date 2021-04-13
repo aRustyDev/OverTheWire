@@ -9,5 +9,7 @@
 * Create SymLinks to central Connection.sh Folder
 
 * Edit conn script
-    * add option flags to connect script
-    * add exit flag for options (ie. `script.sh -h` would exit)
+    * add License Option - Sub Options
+        1. license-short
+        2. license-conditions
+        3. license-warranty
