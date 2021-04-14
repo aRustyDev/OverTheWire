@@ -1,4 +1,26 @@
+# Repo Specific
+######################
 /.vscode/*
 /*/.ssh/id*
 /*/.development/*
 .gitconfig
+
+
+# Temporary files #
+###################
+*.swp
+*.swo
+*~
+
+# Logs #
+######################
+*.log
+
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+*.lock
