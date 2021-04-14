@@ -1,12 +1,12 @@
 # Version [ 1.0 ] 
     Public release of Completed Bandit, including streamlined access and multiple walkthrough levels.
-# Version : Current [ 0.4.4 ]
+# Version : [ 0.4.4 ]
     Added Level Descriptions
-# Version : Current [ 0.4.3 ]
+# Version : [ 0.4.3 ]
     Added "ELI5" version walkthroughs
-# Version : Current [ 0.4.2 ]
+# Version : [ 0.4.2 ]
     Added "refresh-my-memory" version walkthroughs
-# Version : Current [ 0.4.1 ]
+# Version : [ 0.4.1 ]
     Added "just-cmds" version walkthroughs
 # Version [ 0.3.2 ]
     Added License Sub Options to script
