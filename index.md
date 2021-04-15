@@ -6,7 +6,7 @@
 2. [refresh-my-memory](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/refresh-my-memory)
 3. [ELI5](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/ELI5)
 
-### [onnection Scripts](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs)
+### [Connection Scripts](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs)
 
 ### [Wiki](https://github.com/aRustyDev/OverTheWire/wiki)
 
