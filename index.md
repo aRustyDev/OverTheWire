@@ -7,6 +7,7 @@
 3. [ELI5](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/ELI5)
 
 ### Connection Scripts
+```markdown
 | *nix  | .sh   | git   |
 |-------|-------|-------|
 | ---   | ---   | ---   |
@@ -15,6 +16,7 @@
 | lvl-1 | lvl-1 | lvl-1 |
 | lvl-1 | lvl-1 | lvl-1 |
 | lvl-1 | lvl-1 | lvl-1 |
+```
 
 ### [Wiki](https://github.com/aRustyDev/OverTheWire/wiki)
 
