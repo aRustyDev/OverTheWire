@@ -15,3 +15,4 @@
         1. license-short
         2. license-conditions
         3. license-warranty
+    * Verify that each of the levels is accessible via the connection script.
