@@ -1,5 +1,4 @@
 * Re-write the soln-xx-xx.md's in 3 levels
-    - just-answers : no explanation
     - simple-explanation : assuming that the reader is already aware of alot of things
         - Review: soln-21-22.md
         - Review: soln-25-26.md
