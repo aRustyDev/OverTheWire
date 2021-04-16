@@ -5,9 +5,9 @@
 # Version : [ 0.4.4 ]
     Added "ELI5" version walkthroughs
 # Version : [ 0.4.3 ]
-    Added "refresh-my-memory" version walkthroughs
-# Version : [ 0.4.2 ]
     Added Level Descriptions
+# Version : [ 0.4.2 ]
+    Added "refresh-my-memory" version walkthroughs
 # Version : Current [ 0.4.1 ]
     Added "just-cmds" version walkthroughs
 # Version : [ 0.3.2 ]
