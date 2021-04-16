@@ -35,7 +35,7 @@
 | 29 -> 30 | More of the `git` VCS| [lvl-30a][lvl-30a] | [lvl-30b][lvl-30b] | [lvl-30c][lvl-30c] |
 | 30 -> 31 | More of the `git` VCS| [lvl-31a][lvl-31a] | [lvl-31b][lvl-31b] | [lvl-31c][lvl-31c] |
 | 31 -> 32 | More of the `git` VCS| [lvl-32a][lvl-32a] | [lvl-32b][lvl-32b] | [lvl-32c][lvl-32c] |
-| 32 -> 33 | More user **SHELL**s, this is more complex <br>than most people will have worked with.<br> But can be accomplished through<br> trial and error, and a decent amount <br>of intuition/research | [lvl-33a][lvl-33a] | [lvl-33b][lvl-33b] | [lvl-33c][lvl-33c] |
+| 32 -> 33 | More user **SHELL**s, this is more complex than most people will have worked with.<br> But can be accomplished through trial and error, and a decent amount <br>of intuition/research | [lvl-33a][lvl-33a] | [lvl-33b][lvl-33b] | [lvl-33c][lvl-33c] |
 
 [lvl-01a]: https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-00-01.md "soln-00-01.md"
 [lvl-02a]: https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-01-02.md "soln-01-02.md"
