@@ -29,7 +29,7 @@
 | 23 -> 24 | More `cron` cmd & cron scheduler tools| [Lvl-24a][Lvl-24a] | [Lvl-24b][Lvl-24b] | [Lvl-24c][Lvl-24c] |
 | 24 -> 25 | **Loops** & the `nc` cmd| [Lvl-25a][Lvl-25a] | [Lvl-25b][Lvl-25b] | [Lvl-25c][Lvl-25c] |
 | 25 -> 26 | User **SHELL**s, this is more complex <br>than most people will have worked with.| [Lvl-26a][Lvl-26a] | [Lvl-26b][Lvl-26b] | [Lvl-26c][Lvl-26c] |
-| 26 -> 27 | `.bashrc` files & <br>the login process.| [Lvl-27a][Lvl-27a] | [Lvl-27b][Lvl-27b] | [Lvl-27c][Lvl-27c] |
+| 26 -> 27 | `.bashrc` files & the login process.| [Lvl-27a][Lvl-27a] | [Lvl-27b][Lvl-27b] | [Lvl-27c][Lvl-27c] |
 | 27 -> 28 | `git` VCS| [Lvl-28a][Lvl-28a] | [Lvl-28b][Lvl-28b] | [Lvl-28c][Lvl-28c] |
 | 28 -> 29 | More of the `git` VCS| [Lvl-29a][Lvl-29a] | [Lvl-29b][Lvl-29b] | [Lvl-29c][Lvl-29c] |
 | 29 -> 30 | More of the `git` VCS| [Lvl-30a][Lvl-30a] | [Lvl-30b][Lvl-30b] | [Lvl-30c][Lvl-30c] |
