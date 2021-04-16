@@ -2,7 +2,7 @@
 # WARNING : NOT ALL LINKS ARE VALID YET
 
 |Level     | Description            |  Light  |  Medium | Verbose |
-|:--------:|------------------------|:-------:|:-------:|:-------:|
+|:--------:|:------------------------|:-------:|:-------:|:-------:|
 | 00 -> 01 | `cat`                   | [lvl-01a][lvl-01a] | [lvl-01b][lvl-01b] | [lvl-01c][lvl-01c] |
 | 01 -> 02 | Character escape       | [lvl-02a][lvl-02a] | [lvl-02b][lvl-02b] | [lvl-02c][lvl-02c] |
 | 02 -> 03 | Spaces in file names   | [lvl-03a][lvl-03a] | [lvl-03b][lvl-03b] | [lvl-03c][lvl-03c] |
@@ -15,10 +15,10 @@
 | 09 -> 10 | `string` cmd           | [lvl-10a][lvl-10a] | [lvl-10b][lvl-10b] | [lvl-10c][lvl-10c] |
 | 10 -> 11 | `base64` cmd           | [lvl-11a][lvl-11a] | [lvl-11b][lvl-11b] | [lvl-11c][lvl-11c] |
 | 11 -> 12 | `tr` cmd               | [lvl-12a][lvl-12a] | [lvl-12b][lvl-12b] | [lvl-12c][lvl-12c] |
-| 12 -> 13 | `xxd`, `gzip`, `bzip2`, & `tar` cmds| [lvl-13a][lvl-13a] | [lvl-13b][lvl-13b] | [lvl-13c][lvl-13c] |
+| 12 -> 13 | `xxd`, `gzip`, `bzip2`,<br> & `tar` cmds| [lvl-13a][lvl-13a] | [lvl-13b][lvl-13b] | [lvl-13c][lvl-13c] |
 | 13 -> 14 | `ssh` identity files| [lvl-14a][lvl-14a] | [lvl-14b][lvl-14b] | [lvl-14c][lvl-14c] |
 | 14 -> 15 | `nc` client cmd        | [lvl-15a][lvl-15a] | [lvl-15b][lvl-15b] | [lvl-15c][lvl-15c] |
-| 15 -> 16 | `openssl s_client` cmd & encrypted connections| [lvl-16a][lvl-16a] | [lvl-16b][lvl-16b] | [lvl-16c][lvl-16c] |
+| 15 -> 16 | `openssl s_client` cmd <br>& encrypted connections| [lvl-16a][lvl-16a] | [lvl-16b][lvl-16b] | [lvl-16c][lvl-16c] |
 | 16 -> 17 | `nmap` & `openssl s_client` cmds| [lvl-17a][lvl-17a] | [lvl-17b][lvl-17b] | [lvl-17c][lvl-17c] |
 | 17 -> 18 | `diff` cmd| [lvl-18a][lvl-18a] | [lvl-18b][lvl-18b] | [lvl-18c][lvl-18c] |
 | 18 -> 19 | More of the `ssh` cmd| [lvl-19a][lvl-19a] | [lvl-19b][lvl-19b] | [lvl-19c][lvl-19c] |
@@ -28,14 +28,14 @@
 | 22 -> 23 | More `cron` cmd & cron scheduler tools| [lvl-23a][lvl-23a] | [lvl-23b][lvl-23b] | [lvl-23c][lvl-23c] |
 | 23 -> 24 | More `cron` cmd & cron scheduler tools| [lvl-24a][lvl-24a] | [lvl-24b][lvl-24b] | [lvl-24c][lvl-24c] |
 | 24 -> 25 | **Loops** & the `nc` cmd| [lvl-25a][lvl-25a] | [lvl-25b][lvl-25b] | [lvl-25c][lvl-25c] |
-| 25 -> 26 | User **SHELL**s, this is more complex than most people will have worked with.| [lvl-26a][lvl-26a] | [lvl-26b][lvl-26b] | [lvl-26c][lvl-26c] |
-| 26 -> 27 | `.bashrc` files & the login process.| [lvl-27a][lvl-27a] | [lvl-27b][lvl-27b] | [lvl-27c][lvl-27c] |
+| 25 -> 26 | User **SHELL**s, this is more complex <br>than most people will have worked with.| [lvl-26a][lvl-26a] | [lvl-26b][lvl-26b] | [lvl-26c][lvl-26c] |
+| 26 -> 27 | `.bashrc` files & <br>the login process.| [lvl-27a][lvl-27a] | [lvl-27b][lvl-27b] | [lvl-27c][lvl-27c] |
 | 27 -> 28 | `git` VCS| [lvl-28a][lvl-28a] | [lvl-28b][lvl-28b] | [lvl-28c][lvl-28c] |
 | 28 -> 29 | More of the `git` VCS| [lvl-29a][lvl-29a] | [lvl-29b][lvl-29b] | [lvl-29c][lvl-29c] |
 | 29 -> 30 | More of the `git` VCS| [lvl-30a][lvl-30a] | [lvl-30b][lvl-30b] | [lvl-30c][lvl-30c] |
 | 30 -> 31 | More of the `git` VCS| [lvl-31a][lvl-31a] | [lvl-31b][lvl-31b] | [lvl-31c][lvl-31c] |
 | 31 -> 32 | More of the `git` VCS| [lvl-32a][lvl-32a] | [lvl-32b][lvl-32b] | [lvl-32c][lvl-32c] |
-| 32 -> 33 | More user **SHELL**s, this is more complex than most people will have worked with. But can be accomplished through trial and error, and a decent amount of intuition/research | [lvl-33a][lvl-33a] | [lvl-33b][lvl-33b] | [lvl-33c][lvl-33c] |
+| 32 -> 33 | More user **SHELL**s, this is more complex <br>than most people will have worked with.<br> But can be accomplished through<br> trial and error, and a decent amount <br>of intuition/research | [lvl-33a][lvl-33a] | [lvl-33b][lvl-33b] | [lvl-33c][lvl-33c] |
 
 [lvl-01a]: https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-00-01.md "soln-00-01.md"
 [lvl-02a]: https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-01-02.md "soln-01-02.md"
