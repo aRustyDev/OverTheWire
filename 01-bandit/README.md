@@ -15,10 +15,10 @@
 | 09 -> 10 | `string` cmd           | [Lvl-10a][Lvl-10a] | [Lvl-10b][Lvl-10b] | [Lvl-10c][Lvl-10c] |
 | 10 -> 11 | `base64` cmd           | [Lvl-11a][Lvl-11a] | [Lvl-11b][Lvl-11b] | [Lvl-11c][Lvl-11c] |
 | 11 -> 12 | `tr` cmd               | [Lvl-12a][Lvl-12a] | [Lvl-12b][Lvl-12b] | [Lvl-12c][Lvl-12c] |
-| 12 -> 13 | `xxd`, `gzip`, `bzip2`,<br> & `tar` cmds| [Lvl-13a][Lvl-13a] | [Lvl-13b][Lvl-13b] | [Lvl-13c][Lvl-13c] |
+| 12 -> 13 | `xxd`, `gzip`, `bzip2`, & `tar` cmds| [Lvl-13a][Lvl-13a] | [Lvl-13b][Lvl-13b] | [Lvl-13c][Lvl-13c] |
 | 13 -> 14 | `ssh` identity files| [Lvl-14a][Lvl-14a] | [Lvl-14b][Lvl-14b] | [Lvl-14c][Lvl-14c] |
 | 14 -> 15 | `nc` client cmd        | [Lvl-15a][Lvl-15a] | [Lvl-15b][Lvl-15b] | [Lvl-15c][Lvl-15c] |
-| 15 -> 16 | `openssl s_client` cmd <br>& encrypted connections| [Lvl-16a][Lvl-16a] | [Lvl-16b][Lvl-16b] | [Lvl-16c][Lvl-16c] |
+| 15 -> 16 | `openssl s_client` cmd & encrypted connections| [Lvl-16a][Lvl-16a] | [Lvl-16b][Lvl-16b] | [Lvl-16c][Lvl-16c] |
 | 16 -> 17 | `nmap` & `openssl s_client` cmds| [Lvl-17a][Lvl-17a] | [Lvl-17b][Lvl-17b] | [Lvl-17c][Lvl-17c] |
 | 17 -> 18 | `diff` cmd| [Lvl-18a][Lvl-18a] | [Lvl-18b][Lvl-18b] | [Lvl-18c][Lvl-18c] |
 | 18 -> 19 | More of the `ssh` cmd| [Lvl-19a][Lvl-19a] | [Lvl-19b][Lvl-19b] | [Lvl-19c][Lvl-19c] |
