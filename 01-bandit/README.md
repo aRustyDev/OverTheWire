@@ -1,4 +1,5 @@
 # Description of Levels
+# WARNING : NOT ALL LINKS ARE VALID YET
 ### 00 -> 01
 **Description**
 Demonstrates `cat`  
@@ -55,7 +56,7 @@ Demonstrates the `find` cmd
 ---
 ### 06 -> 07
 **Description**
-Further Demonstrates the `find` cmd  
+Further demonstrates the `find` cmd  
 
 **Walk-throughs**
 1. [just-cmds](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-06-07.md)
@@ -64,7 +65,7 @@ Further Demonstrates the `find` cmd
 ---
 ### 07 -> 08
 **Description**
-Further Demonstrates the `find` cmd  
+Demonstrates the `grep` cmd  
 
 **Walk-throughs**
 1. [just-cmds](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-07-08.md)
@@ -73,7 +74,7 @@ Further Demonstrates the `find` cmd
 ---
 ### 08 -> 09
 **Description**
-Further Demonstrates the `find` cmd  
+Demonstrates the `uniq` cmd  
 
 **Walk-throughs**
 1. [just-cmds](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-08-09.md)
@@ -82,7 +83,7 @@ Further Demonstrates the `find` cmd
 ---
 ### 09 -> 10
 **Description**
-Further Demonstrates the `find` cmd  
+Demonstrates the `string` cmd  
 
 **Walk-throughs**
 1. [just-cmds](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-09-10.md)
@@ -91,7 +92,7 @@ Further Demonstrates the `find` cmd
 ---
 ### 10 -> 11
 **Description**
-Further Demonstrates the `find` cmd  
+ demonstrates the `base64` cmd  
 
 **Walk-throughs**
 1. [just-cmds](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-10-11.md)
@@ -100,7 +101,7 @@ Further Demonstrates the `find` cmd
 ---
 ### 11 -> 12
 **Description**
-Further Demonstrates the `find` cmd  
+Demonstrates the `tr` cmd  
 
 **Walk-throughs**
 1. [just-cmds](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-11-12.md)
@@ -109,7 +110,7 @@ Further Demonstrates the `find` cmd
 ---
 ### 12 -> 13
 **Description**
-Further Demonstrates the `find` cmd  
+Demonstrates the `xxd`, `gzip`, `bzip2`, & `tar` cmds  
 
 **Walk-throughs**
 1. [just-cmds](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-12-13.md)
@@ -118,7 +119,7 @@ Further Demonstrates the `find` cmd
 ---
 ### 13 -> 14
 **Description**
-Further Demonstrates the `find` cmd  
+Further demonstrates the `ssh` identity files  
 
 **Walk-throughs**
 1. [just-cmds](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-13-14.md)
@@ -127,7 +128,7 @@ Further Demonstrates the `find` cmd
 ---
 ### 14 -> 15
 **Description**
-Further Demonstrates the `find` cmd  
+Demonstrates the `nc` client cmd  
 
 **Walk-throughs**
 1. [just-cmds](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-14-15.md)
@@ -136,7 +137,7 @@ Further Demonstrates the `find` cmd
 ---
 ### 15 -> 16
 **Description**
-Further Demonstrates the `find` cmd  
+Demonstrates the `openssl s_client` cmd & encrypted connections  
 
 **Walk-throughs**
 1. [just-cmds](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-15-16.md)
@@ -145,7 +146,7 @@ Further Demonstrates the `find` cmd
 ---
 ### 16 -> 17
 **Description**
-Further Demonstrates the `find` cmd  
+Demonstrates the `nmap` & `openssl s_client` cmds  
 
 **Walk-throughs**
 1. [just-cmds](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-16-17.md)
@@ -154,7 +155,7 @@ Further Demonstrates the `find` cmd
 ---
 ### 17 -> 18
 **Description**
-Further Demonstrates the `find` cmd  
+Demonstrates the `diff` cmd  
 
 **Walk-throughs**
 1. [just-cmds](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-17-18.md)
@@ -163,7 +164,7 @@ Further Demonstrates the `find` cmd
 ---
 ### 18 -> 19
 **Description**
-Further Demonstrates the `find` cmd  
+Further demonstrates the `ssh` cmd  
 
 **Walk-throughs**
 1. [just-cmds](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-18-19.md)
@@ -172,7 +173,7 @@ Further Demonstrates the `find` cmd
 ---
 ### 19 -> 20
 **Description**
-Further Demonstrates the `find` cmd  
+Demonstrates **sticky** bits  
 
 **Walk-throughs**
 1. [just-cmds](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-19-20.md)
@@ -181,7 +182,7 @@ Further Demonstrates the `find` cmd
 ---
 ### 20 -> 21
 **Description**
-Further Demonstrates the `find` cmd  
+Demonstrates the `nc` cmd as a server  
 
 **Walk-throughs**
 1. [just-cmds](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-20-21.md)
@@ -190,7 +191,7 @@ Further Demonstrates the `find` cmd
 ---
 ### 21 -> 22
 **Description**
-Further Demonstrates the `find` cmd  
+Demonstrates the `cron` cmd & cron scheduler tools  
 
 **Walk-throughs**
 1. [just-cmds](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-21-22.md)
@@ -199,7 +200,7 @@ Further Demonstrates the `find` cmd
 ---
 ### 22 -> 23
 **Description**
-Further Demonstrates the `find` cmd  
+Further demonstrates `cron` cmd & cron scheduler tools  
 
 **Walk-throughs**
 1. [just-cmds](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-22-23.md)
@@ -208,7 +209,7 @@ Further Demonstrates the `find` cmd
 ---
 ### 23 -> 24
 **Description**
-Further Demonstrates the `find` cmd  
+Further demonstrates `cron` cmd & cron scheduler tools  
 
 **Walk-throughs**
 1. [just-cmds](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-23-24.md)
@@ -217,7 +218,7 @@ Further Demonstrates the `find` cmd
 ---
 ### 24 -> 25
 **Description**
-Further Demonstrates the `find` cmd  
+Demonstrates **Loops**  & the `nc` cmd  
 
 **Walk-throughs**
 1. [just-cmds](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-24-25.md)
@@ -226,7 +227,7 @@ Further Demonstrates the `find` cmd
 ---
 ### 25 -> 26
 **Description**
-Further Demonstrates the `find` cmd  
+Demonstrates user **SHELL**s, this is more complex than most people will have worked with.  
 
 **Walk-throughs**
 1. [just-cmds](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-25-26.md)
@@ -235,7 +236,7 @@ Further Demonstrates the `find` cmd
 ---
 ### 26 -> 27
 **Description**
-Further Demonstrates the `find` cmd  
+Demonstrates the `.bashrc` files & the login process.  
 
 **Walk-throughs**
 1. [just-cmds](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-26-27.md)
@@ -244,7 +245,7 @@ Further Demonstrates the `find` cmd
 ---
 ### 27 -> 28
 **Description**
-Further Demonstrates the `find` cmd  
+\# Further demonstrates the `find` cmd  
 
 **Walk-throughs**
 1. [just-cmds](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-27-28.md)
@@ -253,7 +254,7 @@ Further Demonstrates the `find` cmd
 ---
 ### 28 -> 29
 **Description**
-Further Demonstrates the `find` cmd  
+Demonstrates the `git` VCS  
 
 **Walk-throughs**
 1. [just-cmds](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-28-29.md)
@@ -262,7 +263,7 @@ Further Demonstrates the `find` cmd
 ---
 ### 29 -> 30
 **Description**
-Further Demonstrates the `find` cmd  
+Further demonstrates the `git` VCS  
 
 **Walk-throughs**
 1. [just-cmds](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-29-30.md)
@@ -271,7 +272,7 @@ Further Demonstrates the `find` cmd
 ---
 ### 30 -> 31
 **Description**
-Further Demonstrates the `find` cmd  
+Further demonstrates the `git` VCS  
 
 **Walk-throughs**
 1. [just-cmds](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-30-31.md)
@@ -280,7 +281,7 @@ Further Demonstrates the `find` cmd
 ---
 ### 31 -> 32
 **Description**
-Further Demonstrates the `find` cmd  
+Further demonstrates the `git` VCS  
 
 **Walk-throughs**
 1. [just-cmds](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-31-32.md)
@@ -289,7 +290,7 @@ Further Demonstrates the `find` cmd
 ---
 ### 32 -> 33
 **Description**
-Further Demonstrates the `find` cmd  
+Further demonstrates user **SHELL**s, this is more complex than most people will have worked with. But can be accomplished through trial and error, and a decent amount of intuition/research.  
 
 **Walk-throughs**
 1. [just-cmds](https://github.com/aRustyDev/OverTheWire/tree/main/01-bandit/walkthroughs/just-cmds/soln-32-33.md)
